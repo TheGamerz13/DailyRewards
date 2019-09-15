@@ -1,6 +1,6 @@
 name: DailyRewards
 version: 1.0.0
-api: [2.0.0]
+api: [3.0.0]
 author: Thunder33345
 description:
 main: Thunder33345\DailyReward\Loader
